@@ -545,6 +545,6 @@ Inspired by the incredible work from Anthropic, OpenAI, DeepMind, EleutherAI, an
 ---
 
 <div align="center">
-  <b>Made with ❤️ for the AI research community</b><br>
+  <b>Made with ❤️ for the AI research community by Olaitan Olaleye</b><br>
   <i>If this helped you, please star ⭐ the repo and share it!</i>
 </div>
